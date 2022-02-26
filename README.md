@@ -1,0 +1,2 @@
+# Aumento-Salario
+Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com o cargo, conforme a tabela abaixo. Faça um algoritmo que leia o salário e o cargo de um funcionário e calcule o novo salário. Se o cargo do funcionário não estiver na tabela, ele deverá, então, receber 40% de aumento. Mostre o salário antigo, o novo salário e a diferença.  Cargos:    Percentual  Gerente 10%,  Engenheiro  20%,  Técnico 30%.
